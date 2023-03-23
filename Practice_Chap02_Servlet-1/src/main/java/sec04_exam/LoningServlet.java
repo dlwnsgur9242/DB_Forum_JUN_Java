@@ -48,7 +48,5 @@ public class LoningServlet extends HttpServlet {
 		PrintWriter writer = response.getWriter();
 		writer.println("아이디 : " + id + "<br/>");
 		writer.println("비밀번호 : " + passwd + "<br/>");
-	
 	}
-
 }

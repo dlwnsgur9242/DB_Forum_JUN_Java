@@ -14,7 +14,6 @@ import javax.servlet.http.HttpServletResponse;
 public class NowTime extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-   
     public NowTime() {
   
     }
